@@ -66,6 +66,12 @@ The dashboard gives users a quick overview of their health information, includin
 
 ---
 
+### UI
+
+<img width="1536" height="1024" alt="UI" src="https://github.com/user-attachments/assets/67ca2421-84a8-4b3c-84bb-d31abb3c9866" />
+
+---
+
 ### 🤒 Symptom Tracker
 
 Users can record symptoms such as:
