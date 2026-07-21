@@ -242,10 +242,3 @@ This project is developed for educational and learning purposes.
 
 The AI-generated suggestions are not medical diagnoses and should not be considered professional healthcare advice. Users are always encouraged to consult a qualified healthcare professional regarding any medical concerns.
 
----
-
-
-
----
-
-This style reads naturally, as if you're personally introducing your project to recruiters or anyone visiting your GitHub repository. It's professional, easy to read, and explains **why** you built the project—not just what technologies you used.
