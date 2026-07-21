@@ -1,9 +1,5 @@
 # AI Health Companion
 
-Absolutely! A README written in the **first person** feels more personal and is great for GitHub because it explains your thought process. Here's a polished version:
-
----
-
 # 🩺 MediMate AI – Intelligent Personal Health Companion
 
 ## 📖 About the Project
@@ -248,19 +244,7 @@ The AI-generated suggestions are not medical diagnoses and should not be conside
 
 ---
 
-# 👩‍💻 Developer
 
-**Awantika Ankushe**
-
-Master of Computer Applications (MCA)
-
-MIT World Peace University, Pune
-
----
-
-## ⭐ Why I Built This Project
-
-I wanted to challenge myself by building an end-to-end application that combines **mobile development, backend APIs, database management, and AI** into a single real-world project. Instead of creating a simple CRUD application, I chose to develop something that solves a practical problem and demonstrates my ability to work across multiple technologies in a scalable, modular architecture.
 
 ---
 
